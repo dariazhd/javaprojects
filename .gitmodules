@@ -1,3 +1,6 @@
 [submodule "mietenplatform"]
 	path = mietenplatform
 	url = https://github.com/dariazhd/mietenplatform.git
+[submodule "game-of-life"]
+	path = game-of-life
+	url = https://github.com/dariazhd/game-of-life.git
