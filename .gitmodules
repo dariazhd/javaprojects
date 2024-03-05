@@ -1,0 +1,3 @@
+[submodule "mietenplatform"]
+	path = mietenplatform
+	url = https://github.com/dariazhd/mietenplatform.git
